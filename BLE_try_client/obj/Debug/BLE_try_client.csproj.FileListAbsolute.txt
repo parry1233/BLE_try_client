@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\BLE_try_client\BLE_try_client\bin\Debug\BLE_try_client.exe.config
+C:\Users\USER\source\repos\BLE_try_client\BLE_try_client\bin\Debug\BLE_try_client.exe
+C:\Users\USER\source\repos\BLE_try_client\BLE_try_client\bin\Debug\BLE_try_client.pdb
+C:\Users\USER\source\repos\BLE_try_client\BLE_try_client\obj\Debug\BLE_try_client.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\BLE_try_client\BLE_try_client\obj\Debug\BLE_try_client.Form1.resources
+C:\Users\USER\source\repos\BLE_try_client\BLE_try_client\obj\Debug\BLE_try_client.Properties.Resources.resources
+C:\Users\USER\source\repos\BLE_try_client\BLE_try_client\obj\Debug\BLE_try_client.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\BLE_try_client\BLE_try_client\obj\Debug\BLE_try_client.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\BLE_try_client\BLE_try_client\obj\Debug\BLE_try_client.csproj.CopyComplete
+C:\Users\USER\source\repos\BLE_try_client\BLE_try_client\obj\Debug\BLE_try_client.exe
+C:\Users\USER\source\repos\BLE_try_client\BLE_try_client\obj\Debug\BLE_try_client.pdb
